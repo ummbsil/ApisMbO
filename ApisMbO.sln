@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApisMbO", "ApisMbO\ApisMbO.csproj", "{336311A9-D51B-41DB-98BA-CD3FC084F238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessoDadosMbO", "AcessoDadosMbO\AcessoDadosMbO.csproj", "{2EB152DA-E876-4C5B-9AB1-A1E5F5B05479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{336311A9-D51B-41DB-98BA-CD3FC084F238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336311A9-D51B-41DB-98BA-CD3FC084F238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336311A9-D51B-41DB-98BA-CD3FC084F238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336311A9-D51B-41DB-98BA-CD3FC084F238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB152DA-E876-4C5B-9AB1-A1E5F5B05479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB152DA-E876-4C5B-9AB1-A1E5F5B05479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB152DA-E876-4C5B-9AB1-A1E5F5B05479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB152DA-E876-4C5B-9AB1-A1E5F5B05479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA2B4DF8-80E9-4443-8A47-7784FB4583F3}
+	EndGlobalSection
+EndGlobal
