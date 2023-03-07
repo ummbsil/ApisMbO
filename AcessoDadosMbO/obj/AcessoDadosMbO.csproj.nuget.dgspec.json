@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A706128\\Documents\\Projetos\\ProjetoAcelera\\ApisMbO\\AcessoDadosMbO\\AcessoDadosMbO.csproj": {}
+    "C:\\Users\\A630615\\Documents\\Utilitários\\Treinamentos\\Impacta Tecnologia\\Projeto Final\\ApisMbO\\AcessoDadosMbO\\AcessoDadosMbO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A706128\\Documents\\Projetos\\ProjetoAcelera\\ApisMbO\\AcessoDadosMbO\\AcessoDadosMbO.csproj": {
+    "C:\\Users\\A630615\\Documents\\Utilitários\\Treinamentos\\Impacta Tecnologia\\Projeto Final\\ApisMbO\\AcessoDadosMbO\\AcessoDadosMbO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A706128\\Documents\\Projetos\\ProjetoAcelera\\ApisMbO\\AcessoDadosMbO\\AcessoDadosMbO.csproj",
+        "projectUniqueName": "C:\\Users\\A630615\\Documents\\Utilitários\\Treinamentos\\Impacta Tecnologia\\Projeto Final\\ApisMbO\\AcessoDadosMbO\\AcessoDadosMbO.csproj",
         "projectName": "AcessoDadosMbO",
-        "projectPath": "C:\\Users\\A706128\\Documents\\Projetos\\ProjetoAcelera\\ApisMbO\\AcessoDadosMbO\\AcessoDadosMbO.csproj",
-        "packagesPath": "C:\\Users\\A706128\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A706128\\Documents\\Projetos\\ProjetoAcelera\\ApisMbO\\AcessoDadosMbO\\obj\\",
+        "projectPath": "C:\\Users\\A630615\\Documents\\Utilitários\\Treinamentos\\Impacta Tecnologia\\Projeto Final\\ApisMbO\\AcessoDadosMbO\\AcessoDadosMbO.csproj",
+        "packagesPath": "C:\\Users\\A630615\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A630615\\Documents\\Utilitários\\Treinamentos\\Impacta Tecnologia\\Projeto Final\\ApisMbO\\AcessoDadosMbO\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\A706128\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\A630615\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,8 +58,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -65,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

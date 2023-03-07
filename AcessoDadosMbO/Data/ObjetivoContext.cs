@@ -16,7 +16,7 @@ namespace AcessoDadosMbO.Data
 
         }
         public DbSet<Categoria> Categorias { get; set; }
-        public DbSet<Ciclo> Ciclos { get; set; }
+        public DbSet<Ciclo> Ciclo { get; set; }
         public DbSet<Objetivo> Objetivos { get; set; }
         public DbSet<ObjetivoComum> ObjetivosComuns { get; set; }
         public DbSet<Perfil> Perfis { get; set; }
