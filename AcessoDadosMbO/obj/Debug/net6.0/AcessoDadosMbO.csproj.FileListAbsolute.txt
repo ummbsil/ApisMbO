@@ -22,3 +22,15 @@ C:\Users\A630615\Documents\Utilitários\Treinamentos\Impacta Tecnologia\Projeto 
 C:\Users\A630615\Documents\Utilitários\Treinamentos\Impacta Tecnologia\Projeto Final\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\refint\AcessoDadosMbO.dll
 C:\Users\A630615\Documents\Utilitários\Treinamentos\Impacta Tecnologia\Projeto Final\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\AcessoDadosMbO.pdb
 C:\Users\A630615\Documents\Utilitários\Treinamentos\Impacta Tecnologia\Projeto Final\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\ref\AcessoDadosMbO.dll
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\bin\Debug\net6.0\AcessoDadosMbO.deps.json
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\bin\Debug\net6.0\AcessoDadosMbO.dll
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\bin\Debug\net6.0\AcessoDadosMbO.pdb
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\AcessoDadosMbO.csproj.AssemblyReference.cache
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\AcessoDadosMbO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\AcessoDadosMbO.AssemblyInfoInputs.cache
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\AcessoDadosMbO.AssemblyInfo.cs
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\AcessoDadosMbO.csproj.CoreCompileInputs.cache
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\AcessoDadosMbO.dll
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\refint\AcessoDadosMbO.dll
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\AcessoDadosMbO.pdb
+C:\Acelera Senior\MBO\ApisMbO\AcessoDadosMbO\obj\Debug\net6.0\ref\AcessoDadosMbO.dll

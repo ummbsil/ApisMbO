@@ -45,7 +45,7 @@ namespace AcessoDadosMbO.Data
 
             modelBuilder.Entity<Objetivo>().ToTable("OBJETIVO")
                 .Property(p => p.TipoObjetivoId)
-                .HasColumnName("ID_TIPO_OBJETIVO");
+                .HasColumnName("IDTIPOOBJETIVO");
 
             modelBuilder.Entity<Objetivo>().ToTable("OBJETIVO")
                 .Property(p => p.CategoriaId)
@@ -53,11 +53,11 @@ namespace AcessoDadosMbO.Data
 
             modelBuilder.Entity<ObjetivoComum>().ToTable("OBJETIVO_COMUM")
                 .Property(p => p.TipoObjetivoId)
-                .HasColumnName("ID_TIPOOBJETIVO");
+                .HasColumnName("IDTIPOOBJETIVO");
 
             modelBuilder.Entity<ObjetivoComum>().ToTable("OBJETIVO_COMUM")
                 .Property(p => p.CategoriaId)
-                .HasColumnName("ID_CATEGORIA");
+                .HasColumnName("IDCATEGORIA");
 
             modelBuilder.Entity<Perfil>().ToTable("PERFIL");
 
